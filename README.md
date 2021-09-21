@@ -1,4 +1,4 @@
-# firebase_cloud_messaging_demo
+# Flutter Firebase Cloud Messaging Demo
 
 A new Flutter project.
 
